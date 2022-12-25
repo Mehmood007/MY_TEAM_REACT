@@ -1,0 +1,32 @@
+[
+    {
+        "id": 2,
+        "linkText": "Home",
+        "link": "/"
+    },
+    {
+        "id": 2,
+        "linkText": "About",
+        "link": "/about"
+    },
+    {
+        "id": 2,
+        "linkText": "All Players",
+        "link": "/allplayers"
+    },
+    {
+        "id": 3.1,
+        "link": "/services",
+        "linkText": "Services"
+    },
+    {
+        "id": 4.21,
+        "link": "/team",
+        "linkText": "Team"
+    },
+    {
+        "id": 6,
+        "linkText": "Contact",
+        "link": "/contact"
+    }
+]

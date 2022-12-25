@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "extclass": "",
+        "icon": "fas fa-paper-plane",
+        "title": "DL Method",
+        "text": "Interruptions are better to be considered before it happens thats why DL calculator is provided."
+    },
+    {
+        "id": 2,
+        "extclass": "mt-30",
+        "icon": "fas fa-globe",
+        "title": "Global",
+        "text": "Stats of players around the world playing in different leagues are displayed."
+    },
+    {
+        "id": 3,
+        "extclass": "mt-30",
+        "icon": "fas fa-users",
+        "title": "Suggestions",
+        "text": "Players/Teams are suggested based on their performances in games with external factors applied."
+    },
+    {
+        "id": 4,
+        "extclass": "mt-30",
+        "icon": "fas fa-cogs",
+        "title": "Factors",
+        "text": "While suggesting teams and making combination multiple factors are put into considerations."
+    }
+]

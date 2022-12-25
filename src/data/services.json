@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-cricket",
+        "title": "Sqaud Suggestion",
+        "para": "System suggests players based on their previous stats applying external factors."
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-coach",
+        "title": "Playing XI",
+        "para": "System suggests players based on their recent perfomances without external factors."
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-cricket-helmet",
+        "title": "DL Method",
+        "para": "In case of bad lights or rain interrupts team must be have par score ready before time."
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-cricket-2",
+        "title": "Player Stats",
+        "para": "Players stats can be viewed grapically & tabularly without user have to have account."
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-cricket-3",
+        "title": "Jersey Eagles",
+        "para": "Forms of cricket range from Twenty20, with each team batting for a single innings of 20."
+    },
+    {
+        "id": 6,
+        "icon": "flaticon-hat",
+        "title": "Warford Club",
+        "para": "Forms of cricket range from Twenty20, with each team batting for a single innings of 20."
+    },
+    {
+        "id": 7,
+        "icon": "flaticon-trophy-1",
+        "title": "Kangaroo Club",
+        "para": "Forms of cricket range from Twenty20, with each team batting for a single innings of 20."
+    },
+    {
+        "id": 8,
+        "icon": "flaticon-cricket-ground",
+        "title": "Dabang Team",
+        "para": "Forms of cricket range from Twenty20, with each team batting for a single innings of 20."
+    }
+]

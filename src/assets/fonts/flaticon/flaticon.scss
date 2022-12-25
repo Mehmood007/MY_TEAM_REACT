@@ -1,0 +1,173 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?059b17ef3136361a8aa53d22c9bd6ec9") format("truetype"),
+url("./flaticon.woff?059b17ef3136361a8aa53d22c9bd6ec9") format("woff"),
+url("./flaticon.woff2?059b17ef3136361a8aa53d22c9bd6ec9") format("woff2"),
+url("./flaticon.eot?059b17ef3136361a8aa53d22c9bd6ec9#iefix") format("embedded-opentype"),
+url("./flaticon.svg?059b17ef3136361a8aa53d22c9bd6ec9#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "award-1": "\f101",
+    "award": "\f102",
+    "coach": "\f103",
+    "credit-card": "\f104",
+    "cricket-1": "\f105",
+    "cricket-2": "\f106",
+    "cricket-3": "\f107",
+    "cricket-ground": "\f108",
+    "cricket-helmet": "\f109",
+    "cricket": "\f10a",
+    "customer-service": "\f10b",
+    "destination": "\f10c",
+    "diamond": "\f10d",
+    "discount": "\f10e",
+    "email": "\f10f",
+    "guarantee": "\f110",
+    "hat": "\f111",
+    "headphones": "\f112",
+    "location": "\f113",
+    "message": "\f114",
+    "money-back": "\f115",
+    "pay": "\f116",
+    "podium": "\f117",
+    "rating": "\f118",
+    "right-quote": "\f119",
+    "search-1": "\f11a",
+    "search": "\f11b",
+    "security": "\f11c",
+    "shopping-bag": "\f11d",
+    "speed": "\f11e",
+    "support": "\f11f",
+    "target": "\f120",
+    "team": "\f121",
+    "telephone-1": "\f122",
+    "telephone": "\f123",
+    "trophy-1": "\f124",
+    "trophy": "\f125",
+);
+
+.flaticon-award-1:before {
+    content: map-get($flaticon-map, "award-1");
+}
+.flaticon-award:before {
+    content: map-get($flaticon-map, "award");
+}
+.flaticon-coach:before {
+    content: map-get($flaticon-map, "coach");
+}
+.flaticon-credit-card:before {
+    content: map-get($flaticon-map, "credit-card");
+}
+.flaticon-cricket-1:before {
+    content: map-get($flaticon-map, "cricket-1");
+}
+.flaticon-cricket-2:before {
+    content: map-get($flaticon-map, "cricket-2");
+}
+.flaticon-cricket-3:before {
+    content: map-get($flaticon-map, "cricket-3");
+}
+.flaticon-cricket-ground:before {
+    content: map-get($flaticon-map, "cricket-ground");
+}
+.flaticon-cricket-helmet:before {
+    content: map-get($flaticon-map, "cricket-helmet");
+}
+.flaticon-cricket:before {
+    content: map-get($flaticon-map, "cricket");
+}
+.flaticon-customer-service:before {
+    content: map-get($flaticon-map, "customer-service");
+}
+.flaticon-destination:before {
+    content: map-get($flaticon-map, "destination");
+}
+.flaticon-diamond:before {
+    content: map-get($flaticon-map, "diamond");
+}
+.flaticon-discount:before {
+    content: map-get($flaticon-map, "discount");
+}
+.flaticon-email:before {
+    content: map-get($flaticon-map, "email");
+}
+.flaticon-guarantee:before {
+    content: map-get($flaticon-map, "guarantee");
+}
+.flaticon-hat:before {
+    content: map-get($flaticon-map, "hat");
+}
+.flaticon-headphones:before {
+    content: map-get($flaticon-map, "headphones");
+}
+.flaticon-location:before {
+    content: map-get($flaticon-map, "location");
+}
+.flaticon-message:before {
+    content: map-get($flaticon-map, "message");
+}
+.flaticon-money-back:before {
+    content: map-get($flaticon-map, "money-back");
+}
+.flaticon-pay:before {
+    content: map-get($flaticon-map, "pay");
+}
+.flaticon-podium:before {
+    content: map-get($flaticon-map, "podium");
+}
+.flaticon-rating:before {
+    content: map-get($flaticon-map, "rating");
+}
+.flaticon-right-quote:before {
+    content: map-get($flaticon-map, "right-quote");
+}
+.flaticon-search-1:before {
+    content: map-get($flaticon-map, "search-1");
+}
+.flaticon-search:before {
+    content: map-get($flaticon-map, "search");
+}
+.flaticon-security:before {
+    content: map-get($flaticon-map, "security");
+}
+.flaticon-shopping-bag:before {
+    content: map-get($flaticon-map, "shopping-bag");
+}
+.flaticon-speed:before {
+    content: map-get($flaticon-map, "speed");
+}
+.flaticon-support:before {
+    content: map-get($flaticon-map, "support");
+}
+.flaticon-target:before {
+    content: map-get($flaticon-map, "target");
+}
+.flaticon-team:before {
+    content: map-get($flaticon-map, "team");
+}
+.flaticon-telephone-1:before {
+    content: map-get($flaticon-map, "telephone-1");
+}
+.flaticon-telephone:before {
+    content: map-get($flaticon-map, "telephone");
+}
+.flaticon-trophy-1:before {
+    content: map-get($flaticon-map, "trophy-1");
+}
+.flaticon-trophy:before {
+    content: map-get($flaticon-map, "trophy");
+}

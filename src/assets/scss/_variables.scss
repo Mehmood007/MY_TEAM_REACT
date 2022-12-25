@@ -1,0 +1,26 @@
+// Font Family
+$oswald: 'Oswald', sans-serif;
+$roboto: 'Roboto', sans-serif;
+
+// Colors ---------------
+$text-color:#222222;
+$primary-color: #3765c7;
+$secondary-color:#222222;
+$overly-color: #222222;
+$third-color: #111111;
+$fourth-color: #222222;
+$section-bg: #f7fcff;
+$white: #fff;
+$black: #000;
+
+$border-color: #ededed;
+
+// Responsive Variables
+$xxl: '(min-width: 1600px)';
+$xl: 'only screen and (min-width: 1200px) and (max-width: 1599px)';
+$lg: 'only screen and (min-width: 992px) and (max-width: 1200px)';
+$md: 'only screen and (min-width: 768px) and (max-width: 991px)';
+$sm: '(max-width: 767px)';
+$lsm: 'only screen and (min-width: 576px) and (max-width: 767px)';
+$xsm: '(max-width: 575px)';
+$tiny: '(max-width: 399px)';

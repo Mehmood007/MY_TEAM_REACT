@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-cricket-ground",
+        "title": "Ground",
+        "content": "Players performance may vary from ground to ground. Some players are good at Asian grounds while some are good at Australian grounds and so on. Thus while considering players one must consider ground where he is supposed to play to get maximum result out of it."
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cricket-1",
+        "title": "Position",
+        "content": "Players performance may vary from postion to position. Some players are good at top poistion while some perform well as tail enders and so on. Thus while considering players one must consider player position where he is supposed to play to get maximum result out of it."
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-cricket-2",
+        "title": "Role",
+        "content": "Players performance may vary from role to role. Some players are good at bowling while some perform well as batsman and so on. Thus while considering players one must consider player's playing role at which he is supposed to play to get maximum result out of it."
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-trophy-1",
+        "title": "Category",
+        "content": "Players from different categories may perform differently but it is not neccassary that high category players will perform better than low category. So, players from lower category may perform better than players of high category thats why every category is important."
+    }
+]

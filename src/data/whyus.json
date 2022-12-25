@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "icon":"flaticon-trophy-1",
+        "title":"Weekly Tournament",
+        "text":"Cricket is a bat-and-ball game played between two teams of eleven players."
+    },
+    {
+        "id":2,
+        "icon":"flaticon-guarantee",
+        "title":"Certified Club",
+        "text":"Cricket is a bat-and-ball game played between two teams of eleven players."
+    },
+    {
+        "id":3,
+        "icon":"flaticon-money-back",
+        "title":"100% Refund",
+        "text":"Cricket is a bat-and-ball game played between two teams of eleven players."
+    },
+    {
+        "id":4,
+        "icon":"flaticon-team",
+        "title":"Dedicated Staff",
+        "text":"Cricket is a bat-and-ball game played between two teams of eleven players."
+    },
+    {
+        "id":5,
+        "icon":"flaticon-rating",
+        "title":"Great Feedback",
+        "text":"Cricket is a bat-and-ball game played between two teams of eleven players."
+    },
+    {
+        "id":6,
+        "icon":"flaticon-location",
+        "title":"Various Locations",
+        "text":"Cricket is a bat-and-ball game played between two teams of eleven players."
+    }
+]
